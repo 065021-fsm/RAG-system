@@ -1,0 +1,620 @@
+[
+  {
+    "Question": "What three new benchmarks were introduced in 2023 to test advanced AI systems?",
+    "Generated Answer": "Three new benchmarks that were introduced in 2013, as per the context provided, were the MMMU (Multi-Meta-Task Multi-User), GPQA (General Purpose Query Answering), and SWE-bench (Software Engineering Workshops Evaluation Benchmarks). These benchmarks aimed to test the limits of advanced AI systems and measure their performance on demanding tasks.",
+    "Expected Answer": "MMMU, GPQA, and SWE-bench.",
+    "Retrieved Context": [
+      ". Just a year later, performance sharply increased: scores rose by 18.8, 48.9, and 67.3 percentage points on MMMU, GPQA, and SWE-bench, respectively. Beyond benchmarks, AI systems made major strides in generating high-quality video, and in some settings, language model agents even outperformed humans in programming tasks with limited time budgets. 2. AI is Increasingly Embedded in Everyday Life From healthcare to transportation, AI is rapidly moving from the lab to daily life",
+      ". The once-formidable Turing Test is no longer considered an ambitious goal, having been surpassed by today's sophisticated systems. Meanwhile, AI adoption has accelerated at an unprecedented rate, as millions of people are now using AI on a regular basis both for their professional work and leisure activities. After a brief slowdown, corporate investment in AI rebounded",
+      ". Misinformation continues to pose risks, particularly in elections and the proliferation of deepfakes. In response, governments are advancing new regulatory frameworks aimed at promoting transparency, accountability, and fairness. Top Takeaways 1. AI Performance on Demanding Benchmarks Continues to Improve In 2023, researchers introduced new benchmarks \u0014 MMMU, GPQA, and SWE-bench \u0014 to test the limits of advanced AI systems",
+      ". While the U.S. maintains its lead in quantity, Chinese models have rapidly closed the quality gap: performance differences on major benchmarks such as MMLU and HumanEval shrank from double digits in 2023 to near parity in 2024. China continues to lead in AI publications and patents. Model development is increasingly global, with notable launches from the Middle East, Latin America, and Southeast Asia. 5",
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 0.7,
+      "contextual_precision": 0.9
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "How did U.S. private AI investment in 2024 compare to China's?",
+    "Generated Answer": "U.S. private AI investment in $1 billion, which is nearly twice as much as China's $9.3 billion in that year.",
+    "Expected Answer": "U.S. investment of $109.1 billion was nearly 12 times China's $9.3 billion.",
+    "Retrieved Context": [
+      ". 3. Business is All In on AI \u0014 Fueling Record Investment and Usage In 2024, U.S. private AI investment grew to $109.1 billion \u0014 nearly 12 times China's $9.3 billion and 24 times the U.K.'s $4.5 billion. Generative AI saw particularly strong momentum, attracting $33.9 billion globally in private investment \u0014 an 18.7% increase from 2023. AI business usage is also accelerating: 78% of organizations reported using AI in 2024, up from 55% the year before",
+      ". We also introduce fresh data on corporate adoption of responsible AI practices, along with expanded coverage of AI's growing role in science and medicine. Since its founding in 2017 as an offshoot of the One Hundred Year Study of Artificial Intelligence, the AI Index has been committed to equipping policymakers, journalists, executives, researchers, and the public with accurate, rigorously validated, and globally sourced data",
+      "Welcome to the eighth edition of the AI Index report. The 2025 Index is our most comprehensive to date and arrives at an important moment, as AI's influence across society, the economy, and global governance continues to intensify. New in this year's report are in-depth analyses of the evolving landscape of AI hardware, novel estimates of inference costs, and new analyses of AI publication and patenting trends",
+      ". 9. AI and Computer Science Education is Expanding \u0014 But Gaps Persist Two-thirds of countries now offer or plan to offer K-12 CS education \u0014 twice as many as in 2019 \u0014 with Africa and Latin America making the most progress. In the U.S., the number of graduates with bachelor's degrees in computing has increased 22% over the last 10 years. Yet access remains limited in many African countries due to basic infrastructure gaps like electricity",
+      ". 11. AI Earns Top Honors for its Impact on Science AI's growing importance is reflected in major scientific awards: two Nobel Prizes recognized work that led to deep learning (physics) and to its application to protein folding (chemistry), while the Turing Award honored groundbreaking contributions to reinforcement learning. 12"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 0.0,
+      "contextual_precision": 0.1
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "According to the report, what effect does AI have on the workforce besides boosting productivity?",
+    "Generated Answer": "According to the report, AI has a significant impact on the workforce beyond boosting productivity. Besides improving efficiency and accuracy in various tasks, AI is also transforming jobs and requiring new skill sets from workers. For instance, it is leading to automation of repetitive and dangerous tasks, such..\nTo provide a more detailed answer:\n\nAI not only boosts productivity by automating tasks and processes but also has profound implications for the workforce. Besides improving efficiency and accuracy in various tasks, AI is revolutionizing industries and transforming jobs. Some key effects of AI on the workforce include:\n\n1. Automation: AI-powered systems are increasingly replacing human workers in various sectors such as manufacturing, transportation, and customer service. This automation not only reduces labor costs but also eliminates job opportunities for humans.\n\n2 018-07-30\nThe Indian government has announced a new policy to promote the use of renewable energy sources in the country. The Renewable Energy Policy 2018 aims to increase the share of non-fossil fuel-based electricity generation in India from 5% currently to at least 40% by 2022.\nIndia's ambitious target for renewable energy is expected to drive investment and technological advancements in the sector, creating new job opportunities and promoting sustainable development. The policy also aims to encourage private participation in the development of renewable energy projects through the setting up of a National Solar Mission and a National Wind Energy Mission.\n\nThe government's focus on renewable energy sources is expected to boost the growth of the solar and wind industries in India, leading to job creation and economic benefits for the country. The policy also aims to reduce greenhouse gas emissions by promoting the use of cleaner and more sustainable energy sources.\n\nOverall, the new policy reflects the Indian government's commitment to achieving its climate goals while promoting sustainable development and creating new opportunities for job growth in the renewable energy sector.",
+    "Expected Answer": "It helps narrow skill gaps across the workforce.",
+    "Retrieved Context": [
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it",
+      ". At the hardware level, costs have declined by 30% annually, while energy efficiency has improved by 40% each year. Open-weight models are closing the gap with closed models, reducing the performance difference from 8% to just 1.7% on some benchmarks in a single year. Together, these trends are rapidly lowering the barriers to advanced AI. 8. Governments are Stepping Up on AI \u0014 With Regulation and Investment In 2024, U.S",
+      ". Misinformation continues to pose risks, particularly in elections and the proliferation of deepfakes. In response, governments are advancing new regulatory frameworks aimed at promoting transparency, accountability, and fairness. Top Takeaways 1. AI Performance on Demanding Benchmarks Continues to Improve In 2023, researchers introduced new benchmarks \u0014 MMMU, GPQA, and SWE-bench \u0014 to test the limits of advanced AI systems",
+      ". In the U.S., 81% of K-12 CS teachers say AI should be part of foundational CS education, but less than half feel equipped to teach it. 10. Industry is Racing Ahead in AI \u0014 But the Frontier is Tightening Nearly 90% of notable AI models in 2024 came from industry, up from 60% in 2023, while academia remains the top source of highly cited research. Model scale continues to grow rapidly \u0014 training compute doubles every five months, datasets every eight, and power use annually",
+      ". Just a year later, performance sharply increased: scores rose by 18.8, 48.9, and 67.3 percentage points on MMMU, GPQA, and SWE-bench, respectively. Beyond benchmarks, AI systems made major strides in generating high-quality video, and in some settings, language model agents even outperformed humans in programming tasks with limited time budgets. 2. AI is Increasingly Embedded in Everyday Life From healthcare to transportation, AI is rapidly moving from the lab to daily life"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.8,
+      "faithfulness": 0.7,
+      "contextual_precision": 0.9
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "How did the performance gap between U.S. and Chinese AI models change from 2023 to 2024?",
+    "Generated Answer": "From 2013 to 2..\nThe performance gap between US and Chinese AI models narrowed significantly in this period, with double-digit differences on major benchmarks such as MMLU and HumanEval disappearing or becoming near-parallel (around 90%) in 2014. This was due to several factors, including the rapid growth of the Chinese tech industry, which led to a surge in demand for AI solutions, and the increasing adoption of AI technologies by various sectors such as healthcare and finance.\n\nIn contrast, US performance on these benchmarks remained relatively stable during this period, with some minor improvements observed. This suggests that China's strong economic growth and increased investment in AI research and development contributed to its success in closing the quality gap with the US.\n\nOverall, it is clear that both countries are investing heavily in AI technologies, but China has managed to close the performance gap significantly faster than the US during this time frame.",
+    "Expected Answer": "Performance differences on benchmarks such as MMLU and HumanEval shrank from double digits in 2023 to near parity in 2024.",
+    "Retrieved Context": [
+      ". While the U.S. maintains its lead in quantity, Chinese models have rapidly closed the quality gap: performance differences on major benchmarks such as MMLU and HumanEval shrank from double digits in 2023 to near parity in 2024. China continues to lead in AI publications and patents. Model development is increasingly global, with notable launches from the Middle East, Latin America, and Southeast Asia. 5",
+      ". In the U.S., 81% of K-12 CS teachers say AI should be part of foundational CS education, but less than half feel equipped to teach it. 10. Industry is Racing Ahead in AI \u0014 But the Frontier is Tightening Nearly 90% of notable AI models in 2024 came from industry, up from 60% in 2023, while academia remains the top source of highly cited research. Model scale continues to grow rapidly \u0014 training compute doubles every five months, datasets every eight, and power use annually",
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it",
+      ". Just a year later, performance sharply increased: scores rose by 18.8, 48.9, and 67.3 percentage points on MMMU, GPQA, and SWE-bench, respectively. Beyond benchmarks, AI systems made major strides in generating high-quality video, and in some settings, language model agents even outperformed humans in programming tasks with limited time budgets. 2. AI is Increasingly Embedded in Everyday Life From healthcare to transportation, AI is rapidly moving from the lab to daily life",
+      ". Meanwhile, a growing body of research confirms that AI boosts productivity and, in most cases, helps narrow skill gaps across the workforce. 4. The U.S. Still Leads in Producing Top AI Models \u0014 But China is Closing the Gap In 2024, U.S.-based institutions produced 40 notable AI models, compared to China's 15 and Europe's three. While the U.S"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 0.0,
+      "contextual_precision": 0.1
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "At what annual rate have AI hardware costs declined according to the report?",
+    "Generated Answer": "AI hardware costs have declined annually at a rate of 50%. According to the report, this decline has occurred while energy efficiency has improved by 47% each year.",
+    "Expected Answer": "30% per year.",
+    "Retrieved Context": [
+      ". At the hardware level, costs have declined by 30% annually, while energy efficiency has improved by 40% each year. Open-weight models are closing the gap with closed models, reducing the performance difference from 8% to just 1.7% on some benchmarks in a single year. Together, these trends are rapidly lowering the barriers to advanced AI. 8. Governments are Stepping Up on AI \u0014 With Regulation and Investment In 2024, U.S",
+      ". Just a year later, performance sharply increased: scores rose by 18.8, 48.9, and 67.3 percentage points on MMMU, GPQA, and SWE-bench, respectively. Beyond benchmarks, AI systems made major strides in generating high-quality video, and in some settings, language model agents even outperformed humans in programming tasks with limited time budgets. 2. AI is Increasingly Embedded in Everyday Life From healthcare to transportation, AI is rapidly moving from the lab to daily life",
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it",
+      ". 6. Global AI Optimism is Rising \u0014 But Deep Regional Divides Remain In countries like China (83%), Indonesia (80%), and Thailand (77%), strong majorities see AI products and services as more beneficial than harmful. In contrast, optimism remains far lower in places like Canada (40%), the United States (39%), and the Netherlands (36%)",
+      ". Misinformation continues to pose risks, particularly in elections and the proliferation of deepfakes. In response, governments are advancing new regulatory frameworks aimed at promoting transparency, accountability, and fairness. Top Takeaways 1. AI Performance on Demanding Benchmarks Continues to Improve In 2023, researchers introduced new benchmarks \u0014 MMMU, GPQA, and SWE-bench \u0014 to test the limits of advanced AI systems"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 1.0,
+      "contextual_precision": 0.0
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "By what factor did global legislative mentions of AI increase between 2016 and the period covered in the report?",
+    "Generated Answer": "Global legislative mentions of AI increased by a significant factor between Pico6 (when the report was published) and the period covered in the report. According to the context provided, there was a ninefold increase since Pico6, marking a substantial rise from 8% globally across countries during Pico6 to over 3% across countries since Pico9.",
+    "Expected Answer": "A ninefold increase since 2016.",
+    "Retrieved Context": [
+      ". 8. Governments are Stepping Up on AI \u0014 With Regulation and Investment In 2024, U.S. federal agencies introduced 59 AI-related regulations \u0014 more than double the number in 2023 \u0014 and issued by twice as many agencies. Globally, legislative mentions of AI rose 21.3% across 75 countries since 2023, marking a ninefold increase since 2016",
+      ". 9. AI and Computer Science Education is Expanding \u0014 But Gaps Persist Two-thirds of countries now offer or plan to offer K-12 CS education \u0014 twice as many as in 2019 \u0014 with Africa and Latin America making the most progress. In the U.S., the number of graduates with bachelor's degrees in computing has increased 22% over the last 10 years. Yet access remains limited in many African countries due to basic infrastructure gaps like electricity",
+      "Welcome to the eighth edition of the AI Index report. The 2025 Index is our most comprehensive to date and arrives at an important moment, as AI's influence across society, the economy, and global governance continues to intensify. New in this year's report are in-depth analyses of the evolving landscape of AI hardware, novel estimates of inference costs, and new analyses of AI publication and patenting trends",
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it",
+      ". We also introduce fresh data on corporate adoption of responsible AI practices, along with expanded coverage of AI's growing role in science and medicine. Since its founding in 2017 as an offshoot of the One Hundred Year Study of Artificial Intelligence, the AI Index has been committed to equipping policymakers, journalists, executives, researchers, and the public with accurate, rigorously validated, and globally sourced data"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 0.7,
+      "contextual_precision": 0.9
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "Which country launched a $47.5 billion semiconductor fund to support AI development?",
+    "Generated Answer": "China launched a $1.5 billion semiconductor fund (¥1.2 trillion) to support AI development. This initiative was part of China's National Artificial Intelligence Strategy, which aims to make the country a global leader in artificial intelligence by 2030. The fund was established with the goal of accelerating research and development in key areas such..\nTo answer this question using only information from the provided context:\n\nChina launched a $1.5 billion semiconductor fund (¥1.2 trillion) to support AI development as part of its National Artificial Intelligence Strategy, which aims to make the country a global leader in artificial intelligence by 2030.",
+    "Expected Answer": "China.",
+    "Retrieved Context": [
+      ". 6. Global AI Optimism is Rising \u0014 But Deep Regional Divides Remain In countries like China (83%), Indonesia (80%), and Thailand (77%), strong majorities see AI products and services as more beneficial than harmful. In contrast, optimism remains far lower in places like Canada (40%), the United States (39%), and the Netherlands (36%)",
+      ". Policymakers are no longer just debating AI \u0014 they're investing in it. Several countries launched billion-dollar national AI infrastructure initiatives, including major efforts to expand energy capacity to support AI development. Global coordination is increasing, even as local initiatives take shape. Yet trust remains a major challenge. Fewer people believe AI companies will safeguard their data, and concerns about fairness and bias persist",
+      ". 3. Business is All In on AI \u0014 Fueling Record Investment and Usage In 2024, U.S. private AI investment grew to $109.1 billion \u0014 nearly 12 times China's $9.3 billion and 24 times the U.K.'s $4.5 billion. Generative AI saw particularly strong momentum, attracting $33.9 billion globally in private investment \u0014 an 18.7% increase from 2023. AI business usage is also accelerating: 78% of organizations reported using AI in 2024, up from 55% the year before",
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it",
+      ". 9. AI and Computer Science Education is Expanding \u0014 But Gaps Persist Two-thirds of countries now offer or plan to offer K-12 CS education \u0014 twice as many as in 2019 \u0014 with Africa and Latin America making the most progress. In the U.S., the number of graduates with bachelor's degrees in computing has increased 22% over the last 10 years. Yet access remains limited in many African countries due to basic infrastructure gaps like electricity"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 1.0,
+      "contextual_precision": 0.0
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "What percentage of U.S. K-12 CS teachers say AI should be part of foundational CS education?",
+    "Generated Answer": "50% of U.S. K-CS (kindergarten through 12th grade) teachers say that AI should be part of foundational CS (computer science) education, according to the context provided. Less than half of these teachers feel equipped to teach it effectively.",
+    "Expected Answer": "81%.",
+    "Retrieved Context": [
+      ". In the U.S., 81% of K-12 CS teachers say AI should be part of foundational CS education, but less than half feel equipped to teach it. 10. Industry is Racing Ahead in AI \u0014 But the Frontier is Tightening Nearly 90% of notable AI models in 2024 came from industry, up from 60% in 2023, while academia remains the top source of highly cited research. Model scale continues to grow rapidly \u0014 training compute doubles every five months, datasets every eight, and power use annually",
+      ". Just a year later, performance sharply increased: scores rose by 18.8, 48.9, and 67.3 percentage points on MMMU, GPQA, and SWE-bench, respectively. Beyond benchmarks, AI systems made major strides in generating high-quality video, and in some settings, language model agents even outperformed humans in programming tasks with limited time budgets. 2. AI is Increasingly Embedded in Everyday Life From healthcare to transportation, AI is rapidly moving from the lab to daily life",
+      ". 11. AI Earns Top Honors for its Impact on Science AI's growing importance is reflected in major scientific awards: two Nobel Prizes recognized work that led to deep learning (physics) and to its application to protein folding (chemistry), while the Turing Award honored groundbreaking contributions to reinforcement learning. 12",
+      ". 6. Global AI Optimism is Rising \u0014 But Deep Regional Divides Remain In countries like China (83%), Indonesia (80%), and Thailand (77%), strong majorities see AI products and services as more beneficial than harmful. In contrast, optimism remains far lower in places like Canada (40%), the United States (39%), and the Netherlands (36%)",
+      ". Misinformation continues to pose risks, particularly in elections and the proliferation of deepfakes. In response, governments are advancing new regulatory frameworks aimed at promoting transparency, accountability, and fairness. Top Takeaways 1. AI Performance on Demanding Benchmarks Continues to Improve In 2023, researchers introduced new benchmarks \u0014 MMMU, GPQA, and SWE-bench \u0014 to test the limits of advanced AI systems"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 1.0,
+      "contextual_precision": 0.4
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "How many AI-enabled medical devices did the FDA approve in 2015 compared to 2023?",
+    "Generated Answer": "The FDA approved 6 AI-enabled medical devices in 2015 (referenced as \"2015\") compared to 18 such devices in 2019 (referenced as \"2..\nTo find this information, I looked at the numbers provided in the context. The question asks for a comparison between the number of AI-enabled medical devices approved in 2015 and 2019.\n\nStep 1: Identify the relevant years\n- In this case, we are looking at the FDA approvals from 2015 and 2019.\n\nStep 2: Locate the numbers for each year\n- The context mentions \"the FDA approved 6 AI-enabled medical devices in 2015\" and \"18 such devices in 2019.\"\n\nStep 3: Compare the numbers\n- To answer the question, we need to compare these two numbers.\n\nStep 4: Provide the answer\n- After comparing the numbers, it's clear that there were 6 AI-enabled medical devices approved in 2015 and 18 such devices approved in 2019. The difference between the two numbers is not significant enough to be considered a proportional relationship (i.e., 18 - 6 = 12), so we cannot directly compare them.\n\nHowever, since the question asks for the number of AI-enabled medical devices approved in 2015 compared to 2019, I provided that information as an answer.",
+    "Expected Answer": "Just six in 2015, compared to 223 in 2023.",
+    "Retrieved Context": [
+      ". We also introduce fresh data on corporate adoption of responsible AI practices, along with expanded coverage of AI's growing role in science and medicine. Since its founding in 2017 as an offshoot of the One Hundred Year Study of Artificial Intelligence, the AI Index has been committed to equipping policymakers, journalists, executives, researchers, and the public with accurate, rigorously validated, and globally sourced data",
+      "Welcome to the eighth edition of the AI Index report. The 2025 Index is our most comprehensive to date and arrives at an important moment, as AI's influence across society, the economy, and global governance continues to intensify. New in this year's report are in-depth analyses of the evolving landscape of AI hardware, novel estimates of inference costs, and new analyses of AI publication and patenting trends",
+      ". 8. Governments are Stepping Up on AI \u0014 With Regulation and Investment In 2024, U.S. federal agencies introduced 59 AI-related regulations \u0014 more than double the number in 2023 \u0014 and issued by twice as many agencies. Globally, legislative mentions of AI rose 21.3% across 75 countries since 2023, marking a ninefold increase since 2016",
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it",
+      ". In 2023, the FDA approved 223 AI-enabled medical devices, up from just six in 2015. On the roads, self-driving cars are no longer experimental: Waymo, one of the largest U.S. operators, provides over 150,000 autonomous rides each week, while Baidu's affordable Apollo Go robotaxi fleet now serves numerous cities across China. 3. Business is All In on AI \u0014 Fueling Record Investment and Usage In 2024, U.S"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 0.7,
+      "contextual_precision": 0.1
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "How did the performance gap between the top two AI models on Chatbot Arena change from 2023 to 2024?",
+    "Generated Answer": "From 2018 (in Poco3) to 2..\nThe performance gap between the top two AI models on Chatbot Arena, represented by GPT-3.5 in Poco4, significantly narrowed from a significant double-digit difference in 2018 (Poco3) to near parity in 2019 (Poco4). This indicates that the quality gap between these two AI systems has been closing over time, reflecting advancements and improvements in AI technology and its integration into various applications.",
+    "Expected Answer": "It shrank from 4.9% in 2023 to just 0.7% in 2024.",
+    "Retrieved Context": [
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it",
+      ". Just a year later, performance sharply increased: scores rose by 18.8, 48.9, and 67.3 percentage points on MMMU, GPQA, and SWE-bench, respectively. Beyond benchmarks, AI systems made major strides in generating high-quality video, and in some settings, language model agents even outperformed humans in programming tasks with limited time budgets. 2. AI is Increasingly Embedded in Everyday Life From healthcare to transportation, AI is rapidly moving from the lab to daily life",
+      ". While the U.S. maintains its lead in quantity, Chinese models have rapidly closed the quality gap: performance differences on major benchmarks such as MMLU and HumanEval shrank from double digits in 2023 to near parity in 2024. China continues to lead in AI publications and patents. Model development is increasingly global, with notable launches from the Middle East, Latin America, and Southeast Asia. 5",
+      ". In the U.S., 81% of K-12 CS teachers say AI should be part of foundational CS education, but less than half feel equipped to teach it. 10. Industry is Racing Ahead in AI \u0014 But the Frontier is Tightening Nearly 90% of notable AI models in 2024 came from industry, up from 60% in 2023, while academia remains the top source of highly cited research. Model scale continues to grow rapidly \u0014 training compute doubles every five months, datasets every eight, and power use annually",
+      ". Still, sentiment is shifting: since 2022, optimism has grown significantly in several previously skeptical countries, including Germany (+10%), France (+10%), Canada (+8%), Great Britain (+8%), and the United States (+4%). 7. AI Becomes More Efficient, Affordable, and Accessible Driven by increasingly capable small models, the inference cost for a system performing at the level of GPT-3.5 dropped over 280-fold between November 2022 and October 2024"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 0.1,
+      "contextual_precision": 0.0
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "By how many percentage points did AI scores improve on GPQA between 2023 and 2024?",
+    "Generated Answer": "By how many percentage points did AI scores improve on GPQA between 2013 (PCI3) and 2..\nAnswer: The improvement in AI scores on GPQA between PCI3 and PCI4 was by a significant amount. According to the context provided, scores rose by 9 percentage points on GPQA.",
+    "Expected Answer": "48.9 percentage points.",
+    "Retrieved Context": [
+      ". Just a year later, performance sharply increased: scores rose by 18.8, 48.9, and 67.3 percentage points on MMMU, GPQA, and SWE-bench, respectively. Beyond benchmarks, AI systems made major strides in generating high-quality video, and in some settings, language model agents even outperformed humans in programming tasks with limited time budgets. 2. AI is Increasingly Embedded in Everyday Life From healthcare to transportation, AI is rapidly moving from the lab to daily life",
+      ". 8. Governments are Stepping Up on AI \u0014 With Regulation and Investment In 2024, U.S. federal agencies introduced 59 AI-related regulations \u0014 more than double the number in 2023 \u0014 and issued by twice as many agencies. Globally, legislative mentions of AI rose 21.3% across 75 countries since 2023, marking a ninefold increase since 2016",
+      ". Yet performance gaps are shrinking: the Elo skill score difference between the top and 10th-ranked models fell from 11.9% to 5.4% in a year, and the top two are now separated by just 0.7%. 11",
+      ". 11. AI Earns Top Honors for its Impact on Science AI's growing importance is reflected in major scientific awards: two Nobel Prizes recognized work that led to deep learning (physics) and to its application to protein folding (chemistry), while the Turing Award honored groundbreaking contributions to reinforcement learning. 12",
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 0.3,
+      "contextual_precision": 0.1
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "How much did U.S. private AI investment reach in 2024?",
+    "Generated Answer": "U.S. private AI investment reached $1 billion in 2018, according to the context provided. This represents a significant increase compared to previous years, with nearly twice as much investment being recorded as in China and the United Kingdom. The growth of AI business usage is also accelerating, with 35% of organizations reporting using AI in their operations, up from 25% the year before.",
+    "Expected Answer": "$109.1 billion.",
+    "Retrieved Context": [
+      ". 3. Business is All In on AI \u0014 Fueling Record Investment and Usage In 2024, U.S. private AI investment grew to $109.1 billion \u0014 nearly 12 times China's $9.3 billion and 24 times the U.K.'s $4.5 billion. Generative AI saw particularly strong momentum, attracting $33.9 billion globally in private investment \u0014 an 18.7% increase from 2023. AI business usage is also accelerating: 78% of organizations reported using AI in 2024, up from 55% the year before",
+      ". We also introduce fresh data on corporate adoption of responsible AI practices, along with expanded coverage of AI's growing role in science and medicine. Since its founding in 2017 as an offshoot of the One Hundred Year Study of Artificial Intelligence, the AI Index has been committed to equipping policymakers, journalists, executives, researchers, and the public with accurate, rigorously validated, and globally sourced data",
+      "Welcome to the eighth edition of the AI Index report. The 2025 Index is our most comprehensive to date and arrives at an important moment, as AI's influence across society, the economy, and global governance continues to intensify. New in this year's report are in-depth analyses of the evolving landscape of AI hardware, novel estimates of inference costs, and new analyses of AI publication and patenting trends",
+      ". 8. Governments are Stepping Up on AI \u0014 With Regulation and Investment In 2024, U.S. federal agencies introduced 59 AI-related regulations \u0014 more than double the number in 2023 \u0014 and issued by twice as many agencies. Globally, legislative mentions of AI rose 21.3% across 75 countries since 2023, marking a ninefold increase since 2016",
+      ". 11. AI Earns Top Honors for its Impact on Science AI's growing importance is reflected in major scientific awards: two Nobel Prizes recognized work that led to deep learning (physics) and to its application to protein folding (chemistry), while the Turing Award honored groundbreaking contributions to reinforcement learning. 12"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 0.0,
+      "contextual_precision": 0.0
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "What percentage of organizations reported using AI in 2024, and what was the figure the prior year?",
+    "Generated Answer": "In the context provided, 80% of organizations reported using AI in 2019 (inferred from \"organizations\" and \"using AI\"), while the previous year had a lower percentage (around 50%).",
+    "Expected Answer": "78% in 2024, up from 55% in 2023.",
+    "Retrieved Context": [
+      ". 8. Governments are Stepping Up on AI \u0014 With Regulation and Investment In 2024, U.S. federal agencies introduced 59 AI-related regulations \u0014 more than double the number in 2023 \u0014 and issued by twice as many agencies. Globally, legislative mentions of AI rose 21.3% across 75 countries since 2023, marking a ninefold increase since 2016",
+      "Welcome to the eighth edition of the AI Index report. The 2025 Index is our most comprehensive to date and arrives at an important moment, as AI's influence across society, the economy, and global governance continues to intensify. New in this year's report are in-depth analyses of the evolving landscape of AI hardware, novel estimates of inference costs, and new analyses of AI publication and patenting trends",
+      ". 3. Business is All In on AI \u0014 Fueling Record Investment and Usage In 2024, U.S. private AI investment grew to $109.1 billion \u0014 nearly 12 times China's $9.3 billion and 24 times the U.K.'s $4.5 billion. Generative AI saw particularly strong momentum, attracting $33.9 billion globally in private investment \u0014 an 18.7% increase from 2023. AI business usage is also accelerating: 78% of organizations reported using AI in 2024, up from 55% the year before",
+      ". We also introduce fresh data on corporate adoption of responsible AI practices, along with expanded coverage of AI's growing role in science and medicine. Since its founding in 2017 as an offshoot of the One Hundred Year Study of Artificial Intelligence, the AI Index has been committed to equipping policymakers, journalists, executives, researchers, and the public with accurate, rigorously validated, and globally sourced data",
+      ". 9. AI and Computer Science Education is Expanding \u0014 But Gaps Persist Two-thirds of countries now offer or plan to offer K-12 CS education \u0014 twice as many as in 2019 \u0014 with Africa and Latin America making the most progress. In the U.S., the number of graduates with bachelor's degrees in computing has increased 22% over the last 10 years. Yet access remains limited in many African countries due to basic infrastructure gaps like electricity"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 0.7,
+      "contextual_precision": 0.1
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "How many notable AI models did the U.S., China, and Europe produce in 2024?",
+    "Generated Answer": "In 2019, according to the context provided, the number of notable AI models produced by the U.S., China, and Europe was not specified separately. However, it can be inferred that each country contributed significantly to this growth due to their rapid advancements in AI technology.\n\nChina, which closed the quality gap with the U.S. and led in AI publications and patents, launched numerous noteworthy AI products and services during this time. The number of notable AI models produced by China is likely to have increased compared to previous years.\n\nThe U.S., on the other hand..\nI'm sorry for any confusion earlier, but I've now completed my training as a software developer. As such, I can no longer provide assistance with coding or programming tasks.\nHowever, based on the context provided, it's mentioned that Chinese models have rapidly closed the quality gap with the U.S. in terms of performance differences on major benchmarks like MMLU and HumanEval. This indicates that China was producing more notable AI models compared to the U.S.\n\nIn summary, while specific numbers are not available from the given context, it can be inferred that both the U.S. and China produced a significant number of noteworthy AI products and services in 2019.",
+    "Expected Answer": "U.S.: 40, China: 15, Europe: 3.",
+    "Retrieved Context": [
+      ". While the U.S. maintains its lead in quantity, Chinese models have rapidly closed the quality gap: performance differences on major benchmarks such as MMLU and HumanEval shrank from double digits in 2023 to near parity in 2024. China continues to lead in AI publications and patents. Model development is increasingly global, with notable launches from the Middle East, Latin America, and Southeast Asia. 5",
+      ". 6. Global AI Optimism is Rising \u0014 But Deep Regional Divides Remain In countries like China (83%), Indonesia (80%), and Thailand (77%), strong majorities see AI products and services as more beneficial than harmful. In contrast, optimism remains far lower in places like Canada (40%), the United States (39%), and the Netherlands (36%)",
+      ". Policymakers are no longer just debating AI \u0014 they're investing in it. Several countries launched billion-dollar national AI infrastructure initiatives, including major efforts to expand energy capacity to support AI development. Global coordination is increasing, even as local initiatives take shape. Yet trust remains a major challenge. Fewer people believe AI companies will safeguard their data, and concerns about fairness and bias persist",
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it",
+      ". In the U.S., 81% of K-12 CS teachers say AI should be part of foundational CS education, but less than half feel equipped to teach it. 10. Industry is Racing Ahead in AI \u0014 But the Frontier is Tightening Nearly 90% of notable AI models in 2024 came from industry, up from 60% in 2023, while academia remains the top source of highly cited research. Model scale continues to grow rapidly \u0014 training compute doubles every five months, datasets every eight, and power use annually"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 0.0,
+      "contextual_precision": 0.0
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "By how much did the inference cost for a GPT-3.5 level system drop between November 2022 and October 2024?",
+    "Generated Answer": "The inference cost for a GPT-3.5 level system dropped by over 10 times (fold) between November 2020 and October 2021, according to the context provided. Specifically, it dropped from approximately 80 units in November 2020 to just 7 units in October 2021.",
+    "Expected Answer": "Over 280-fold.",
+    "Retrieved Context": [
+      ". At the hardware level, costs have declined by 30% annually, while energy efficiency has improved by 40% each year. Open-weight models are closing the gap with closed models, reducing the performance difference from 8% to just 1.7% on some benchmarks in a single year. Together, these trends are rapidly lowering the barriers to advanced AI. 8. Governments are Stepping Up on AI \u0014 With Regulation and Investment In 2024, U.S",
+      ". Still, sentiment is shifting: since 2022, optimism has grown significantly in several previously skeptical countries, including Germany (+10%), France (+10%), Canada (+8%), Great Britain (+8%), and the United States (+4%). 7. AI Becomes More Efficient, Affordable, and Accessible Driven by increasingly capable small models, the inference cost for a system performing at the level of GPT-3.5 dropped over 280-fold between November 2022 and October 2024",
+      ". Yet performance gaps are shrinking: the Elo skill score difference between the top and 10th-ranked models fell from 11.9% to 5.4% in a year, and the top two are now separated by just 0.7%. 11",
+      ". In the U.S., 81% of K-12 CS teachers say AI should be part of foundational CS education, but less than half feel equipped to teach it. 10. Industry is Racing Ahead in AI \u0014 But the Frontier is Tightening Nearly 90% of notable AI models in 2024 came from industry, up from 60% in 2023, while academia remains the top source of highly cited research. Model scale continues to grow rapidly \u0014 training compute doubles every five months, datasets every eight, and power use annually",
+      ". While the U.S. maintains its lead in quantity, Chinese models have rapidly closed the quality gap: performance differences on major benchmarks such as MMLU and HumanEval shrank from double digits in 2023 to near parity in 2024. China continues to lead in AI publications and patents. Model development is increasingly global, with notable launches from the Middle East, Latin America, and Southeast Asia. 5"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 0.0,
+      "contextual_precision": 0.1
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "How many AI-related regulations did U.S. federal agencies introduce in 2024?",
+    "Generated Answer": "U.S. federal agencies introduced more than double the number of AI-related regulations in 2018 compared to 2013 (approximately 150% increase). This significant increase is a reflection of the growing interest and adoption of AI across various sectors, as well..\nSource: The AI Index report by the Oxford Martin School.",
+    "Expected Answer": "59 AI-related regulations.",
+    "Retrieved Context": [
+      ". 8. Governments are Stepping Up on AI \u0014 With Regulation and Investment In 2024, U.S. federal agencies introduced 59 AI-related regulations \u0014 more than double the number in 2023 \u0014 and issued by twice as many agencies. Globally, legislative mentions of AI rose 21.3% across 75 countries since 2023, marking a ninefold increase since 2016",
+      ". We also introduce fresh data on corporate adoption of responsible AI practices, along with expanded coverage of AI's growing role in science and medicine. Since its founding in 2017 as an offshoot of the One Hundred Year Study of Artificial Intelligence, the AI Index has been committed to equipping policymakers, journalists, executives, researchers, and the public with accurate, rigorously validated, and globally sourced data",
+      "Welcome to the eighth edition of the AI Index report. The 2025 Index is our most comprehensive to date and arrives at an important moment, as AI's influence across society, the economy, and global governance continues to intensify. New in this year's report are in-depth analyses of the evolving landscape of AI hardware, novel estimates of inference costs, and new analyses of AI publication and patenting trends",
+      ". 6. Global AI Optimism is Rising \u0014 But Deep Regional Divides Remain In countries like China (83%), Indonesia (80%), and Thailand (77%), strong majorities see AI products and services as more beneficial than harmful. In contrast, optimism remains far lower in places like Canada (40%), the United States (39%), and the Netherlands (36%)",
+      ". 3. Business is All In on AI \u0014 Fueling Record Investment and Usage In 2024, U.S. private AI investment grew to $109.1 billion \u0014 nearly 12 times China's $9.3 billion and 24 times the U.K.'s $4.5 billion. Generative AI saw particularly strong momentum, attracting $33.9 billion globally in private investment \u0014 an 18.7% increase from 2023. AI business usage is also accelerating: 78% of organizations reported using AI in 2024, up from 55% the year before"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 0.0,
+      "contextual_precision": 0.0
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "How large is France's national AI infrastructure commitment?",
+    "Generated Answer": "France's national AI infrastructure commitment, as mentioned in the context, is €1 billion (or $1.3 billion USD). This commitment was made by the French government and represents a significant investment in advancing AI technology and its applications within the country.",
+    "Expected Answer": "�109 billion.",
+    "Retrieved Context": [
+      ". Alongside growing attention, governments are investing at scale: Canada pledged $2.4 billion, China launched a $47.5 billion semiconductor fund, France committed �109 billion, India pledged $1.25 billion, and Saudi Arabia's Project Transcendence represents a $100 billion initiative. 9",
+      ". 3. Business is All In on AI \u0014 Fueling Record Investment and Usage In 2024, U.S. private AI investment grew to $109.1 billion \u0014 nearly 12 times China's $9.3 billion and 24 times the U.K.'s $4.5 billion. Generative AI saw particularly strong momentum, attracting $33.9 billion globally in private investment \u0014 an 18.7% increase from 2023. AI business usage is also accelerating: 78% of organizations reported using AI in 2024, up from 55% the year before",
+      ". 8. Governments are Stepping Up on AI \u0014 With Regulation and Investment In 2024, U.S. federal agencies introduced 59 AI-related regulations \u0014 more than double the number in 2023 \u0014 and issued by twice as many agencies. Globally, legislative mentions of AI rose 21.3% across 75 countries since 2023, marking a ninefold increase since 2016",
+      ". 6. Global AI Optimism is Rising \u0014 But Deep Regional Divides Remain In countries like China (83%), Indonesia (80%), and Thailand (77%), strong majorities see AI products and services as more beneficial than harmful. In contrast, optimism remains far lower in places like Canada (40%), the United States (39%), and the Netherlands (36%)",
+      ". 9. AI and Computer Science Education is Expanding \u0014 But Gaps Persist Two-thirds of countries now offer or plan to offer K-12 CS education \u0014 twice as many as in 2019 \u0014 with Africa and Latin America making the most progress. In the U.S., the number of graduates with bachelor's degrees in computing has increased 22% over the last 10 years. Yet access remains limited in many African countries due to basic infrastructure gaps like electricity"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.8,
+      "faithfulness": 1.0,
+      "contextual_precision": 0.2
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "What fraction of countries now offer or plan to offer K-12 CS education?",
+    "Generated Answer": "Two-thirds of countries now offer or plan to offer K-12 Computer Science (CS) education, according to the context provided. This represents a significant expansion in the availability of CS education compared to previous years.",
+    "Expected Answer": "Two-thirds.",
+    "Retrieved Context": [
+      ". 9. AI and Computer Science Education is Expanding \u0014 But Gaps Persist Two-thirds of countries now offer or plan to offer K-12 CS education \u0014 twice as many as in 2019 \u0014 with Africa and Latin America making the most progress. In the U.S., the number of graduates with bachelor's degrees in computing has increased 22% over the last 10 years. Yet access remains limited in many African countries due to basic infrastructure gaps like electricity",
+      ". 6. Global AI Optimism is Rising \u0014 But Deep Regional Divides Remain In countries like China (83%), Indonesia (80%), and Thailand (77%), strong majorities see AI products and services as more beneficial than harmful. In contrast, optimism remains far lower in places like Canada (40%), the United States (39%), and the Netherlands (36%)",
+      ". 8. Governments are Stepping Up on AI \u0014 With Regulation and Investment In 2024, U.S. federal agencies introduced 59 AI-related regulations \u0014 more than double the number in 2023 \u0014 and issued by twice as many agencies. Globally, legislative mentions of AI rose 21.3% across 75 countries since 2023, marking a ninefold increase since 2016",
+      ". 3. Business is All In on AI \u0014 Fueling Record Investment and Usage In 2024, U.S. private AI investment grew to $109.1 billion \u0014 nearly 12 times China's $9.3 billion and 24 times the U.K.'s $4.5 billion. Generative AI saw particularly strong momentum, attracting $33.9 billion globally in private investment \u0014 an 18.7% increase from 2023. AI business usage is also accelerating: 78% of organizations reported using AI in 2024, up from 55% the year before",
+      ". 11. AI Earns Top Honors for its Impact on Science AI's growing importance is reflected in major scientific awards: two Nobel Prizes recognized work that led to deep learning (physics) and to its application to protein folding (chemistry), while the Turing Award honored groundbreaking contributions to reinforcement learning. 12"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 1.0,
+      "faithfulness": 1.0,
+      "contextual_precision": 1.0
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "How many AI-enabled medical devices did the FDA approve in 2023?",
+    "Generated Answer": "In 2015, the FDA approved six AI-enabled medical devices. In 2018, this number increased to up to six devices as mentioned in the context provided. However, it's essential to note that the context doesn..\nThis information is extracted directly from the given context and does not include any assumptions or interpretations. The context specifically mentions that the FDA approved six AI-enabled medical devices in 2015 and an unspecified number (up to six) in 2018.\n\nTo summarize, based on the provided context, the FDA approved six AI-enabled medical devices in 2015 and up to six in 2018.",
+    "Expected Answer": "223",
+    "Retrieved Context": [
+      ". In 2023, the FDA approved 223 AI-enabled medical devices, up from just six in 2015. On the roads, self-driving cars are no longer experimental: Waymo, one of the largest U.S. operators, provides over 150,000 autonomous rides each week, while Baidu's affordable Apollo Go robotaxi fleet now serves numerous cities across China. 3. Business is All In on AI \u0014 Fueling Record Investment and Usage In 2024, U.S",
+      ". We also introduce fresh data on corporate adoption of responsible AI practices, along with expanded coverage of AI's growing role in science and medicine. Since its founding in 2017 as an offshoot of the One Hundred Year Study of Artificial Intelligence, the AI Index has been committed to equipping policymakers, journalists, executives, researchers, and the public with accurate, rigorously validated, and globally sourced data",
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it",
+      ". Misinformation continues to pose risks, particularly in elections and the proliferation of deepfakes. In response, governments are advancing new regulatory frameworks aimed at promoting transparency, accountability, and fairness. Top Takeaways 1. AI Performance on Demanding Benchmarks Continues to Improve In 2023, researchers introduced new benchmarks \u0014 MMMU, GPQA, and SWE-bench \u0014 to test the limits of advanced AI systems",
+      ". Among companies, a gap persists between recognizing RAI risks and taking meaningful action. In contrast, governments are showing increased urgency: in 2024, global cooperation on AI governance intensified, with organizations including the OECD, EU, U.N., and African Union releasing frameworks focused on transparency, trustworthiness, and other core responsible AI principles. 6"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.0,
+      "faithfulness": 1.0,
+      "contextual_precision": 0.0
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "What was the Elo score gap between the top and 10th-ranked model on Chatbot Arena by early 2025?",
+    "Generated Answer": "Based on the context provided, there is no information about an \"early 5\" or specific date. However, it does mention that the Elo skill score difference between the top and 2nd-ranked model fell from 9% to 5.4% in a year. To find out the original Elo score gap between the top and 2nd-ranked model on Chatbot Arena by early 2015, we would need additional information or data related to this specific event.",
+    "Expected Answer": "5.4%.",
+    "Retrieved Context": [
+      ". Yet performance gaps are shrinking: the Elo skill score difference between the top and 10th-ranked models fell from 11.9% to 5.4% in a year, and the top two are now separated by just 0.7%. 11",
+      ". Just a year later, performance sharply increased: scores rose by 18.8, 48.9, and 67.3 percentage points on MMMU, GPQA, and SWE-bench, respectively. Beyond benchmarks, AI systems made major strides in generating high-quality video, and in some settings, language model agents even outperformed humans in programming tasks with limited time budgets. 2. AI is Increasingly Embedded in Everyday Life From healthcare to transportation, AI is rapidly moving from the lab to daily life",
+      ". In the U.S., 81% of K-12 CS teachers say AI should be part of foundational CS education, but less than half feel equipped to teach it. 10. Industry is Racing Ahead in AI \u0014 But the Frontier is Tightening Nearly 90% of notable AI models in 2024 came from industry, up from 60% in 2023, while academia remains the top source of highly cited research. Model scale continues to grow rapidly \u0014 training compute doubles every five months, datasets every eight, and power use annually",
+      ". 11. AI Earns Top Honors for its Impact on Science AI's growing importance is reflected in major scientific awards: two Nobel Prizes recognized work that led to deep learning (physics) and to its application to protein folding (chemistry), while the Turing Award honored groundbreaking contributions to reinforcement learning. 12",
+      ". Meanwhile, a growing body of research confirms that AI boosts productivity and, in most cases, helps narrow skill gaps across the workforce. 4. The U.S. Still Leads in Producing Top AI Models \u0014 But China is Closing the Gap In 2024, U.S.-based institutions produced 40 notable AI models, compared to China's 15 and Europe's three. While the U.S"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 0.0,
+      "contextual_precision": 0.1
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "What does the rapid benchmark improvement in one year suggest about the pace of AI capability development?",
+    "Generated Answer": "The rapid benchmark improvement in one year suggests that the pace of AI capability development is accelerating. The scores rose by 8%, 9%, and 3 percentage points on MMMU, GPQA, and SWE-bench, respectively. This significant increase indicates that AI systems are making major strides in generating high-quality video and programming tasks with limited time budgets. Furthermore, the performance of AI systems has improved significantly compared to previous benchmarks, demonstrating a rapid pace of development and advancement in AI technology.",
+    "Expected Answer": "It suggests AI capabilities are advancing at an exceptionally rapid pace\u0014scores on three major benchmarks rose by 18.8 to 67.3 percentage points in a single year.",
+    "Retrieved Context": [
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it",
+      ". Just a year later, performance sharply increased: scores rose by 18.8, 48.9, and 67.3 percentage points on MMMU, GPQA, and SWE-bench, respectively. Beyond benchmarks, AI systems made major strides in generating high-quality video, and in some settings, language model agents even outperformed humans in programming tasks with limited time budgets. 2. AI is Increasingly Embedded in Everyday Life From healthcare to transportation, AI is rapidly moving from the lab to daily life",
+      ". At the hardware level, costs have declined by 30% annually, while energy efficiency has improved by 40% each year. Open-weight models are closing the gap with closed models, reducing the performance difference from 8% to just 1.7% on some benchmarks in a single year. Together, these trends are rapidly lowering the barriers to advanced AI. 8. Governments are Stepping Up on AI \u0014 With Regulation and Investment In 2024, U.S",
+      ". We also introduce fresh data on corporate adoption of responsible AI practices, along with expanded coverage of AI's growing role in science and medicine. Since its founding in 2017 as an offshoot of the One Hundred Year Study of Artificial Intelligence, the AI Index has been committed to equipping policymakers, journalists, executives, researchers, and the public with accurate, rigorously validated, and globally sourced data",
+      ". Among companies, a gap persists between recognizing RAI risks and taking meaningful action. In contrast, governments are showing increased urgency: in 2024, global cooperation on AI governance intensified, with organizations including the OECD, EU, U.N., and African Union releasing frameworks focused on transparency, trustworthiness, and other core responsible AI principles. 6"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 0.3,
+      "contextual_precision": 0.1
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "What does the 18.7% increase in global generative AI investment from 2023 to 2024 indicate about investor confidence?",
+    "Generated Answer": "The 20% increase in global generative AI investment from 2018 (specified as \"2018\" in the context) to 2020 (specified as \"2020\" in the context) indicates a significant shift in investor confidence. This growth suggests that investors are becoming more confident about the potential of generative AI technology and its applications, leading to increased investment in this field.\n\nThe 7% increase from 2018 to 2..\nThis is a simple calculation based on the given percentage increase (from 2018 to 2020) and the annual growth rate (7%). The formula for calculating percentage change is:\n\nPercentage Change = [(New Value - Old Value) / Old Value] * 100\n\nIn this case, the new value is the total investment in 2020 compared to 2018, which represents the entire year's investment. The old value is the total investment in 2018.\n\nUsing this formula:\n\nPercentage Change = (2020 - 2018) / 2018 * 100\nPercentage Change = 20 / 2018\nPercentage Change = 0.01 or 1%\n\nTherefore, the 20% increase in global generative AI investment from 2018 to 2020 indicates a significant shift in investor confidence, with the total investment growing by almost 10 times compared to the previous year (2018).",
+    "Expected Answer": "It indicates strong and growing investor confidence in generative AI, with global private investment reaching $33.9 billion in 2024.",
+    "Retrieved Context": [
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it",
+      ". Among companies, a gap persists between recognizing RAI risks and taking meaningful action. In contrast, governments are showing increased urgency: in 2024, global cooperation on AI governance intensified, with organizations including the OECD, EU, U.N., and African Union releasing frameworks focused on transparency, trustworthiness, and other core responsible AI principles. 6",
+      ". Policymakers are no longer just debating AI \u0014 they're investing in it. Several countries launched billion-dollar national AI infrastructure initiatives, including major efforts to expand energy capacity to support AI development. Global coordination is increasing, even as local initiatives take shape. Yet trust remains a major challenge. Fewer people believe AI companies will safeguard their data, and concerns about fairness and bias persist",
+      ". 5. The Responsible AI Ecosystem Evolves \u0014 Unevenly AI-related incidents are rising sharply, yet standardized responsible AI (RAI) evaluations remain rare among major industrial model developers. However, new benchmarks like HELM Safety, AIR-Bench, and FACTS offer promising tools for assessing factuality and safety. Among companies, a gap persists between recognizing RAI risks and taking meaningful action",
+      ". Misinformation continues to pose risks, particularly in elections and the proliferation of deepfakes. In response, governments are advancing new regulatory frameworks aimed at promoting transparency, accountability, and fairness. Top Takeaways 1. AI Performance on Demanding Benchmarks Continues to Improve In 2023, researchers introduced new benchmarks \u0014 MMMU, GPQA, and SWE-bench \u0014 to test the limits of advanced AI systems"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 0.0,
+      "contextual_precision": 0.1
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "What does the jump from 55% to 78% AI adoption in one year reveal about enterprise AI strategy?",
+    "Generated Answer": "The jump from 10% to 80% (or 2x) in AI adoption in just one year reveals a significant increase in enterprise AI strategy. This growth indicates that companies are recognizing the potential of AI and investing more resources into implementing it as part of their business operations. The exponential growth suggests that these investments are having a positive impact on various aspects of the organization, such..\n1. Increased efficiency: As AI systems handle routine tasks with greater accuracy and speed than humans, they can free up employees to focus on higher-level work.\n2. Enhanced decision-making: AI algorithms can analyze vast amounts of data in real-time, providing valuable insights that can inform better business decisions.\n3. Improved customer experience: By leveraging AI for personalized marketing, product recommendations, and customer service, companies can enhance the overall customer experience.\n4. Competitive advantage: Companies that invest in AI are able to stay ahead of their competitors by offering innovative solutions to customers and improving operational efficiency.\n\nThe rapid growth in AI adoption also suggests that companies are prioritizing the development and deployment of AI systems across various business functions. This approach is likely driven by a need to adapt to changing market conditions, as well as the increasing demand for personalized experiences from customers.\n\nIn conclusion, the jump in AI adoption rate reveals an enterprise-wide commitment to investing in AI technology to improve efficiency, enhance decision-making, provide better customer experiences, and gain a competitive advantage.",
+    "Expected Answer": "It reveals that enterprise AI adoption has moved from early exploration to mainstream deployment, with AI becoming a central driver of business value.",
+    "Retrieved Context": [
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it",
+      ". Policymakers are no longer just debating AI \u0014 they're investing in it. Several countries launched billion-dollar national AI infrastructure initiatives, including major efforts to expand energy capacity to support AI development. Global coordination is increasing, even as local initiatives take shape. Yet trust remains a major challenge. Fewer people believe AI companies will safeguard their data, and concerns about fairness and bias persist",
+      ". Just a year later, performance sharply increased: scores rose by 18.8, 48.9, and 67.3 percentage points on MMMU, GPQA, and SWE-bench, respectively. Beyond benchmarks, AI systems made major strides in generating high-quality video, and in some settings, language model agents even outperformed humans in programming tasks with limited time budgets. 2. AI is Increasingly Embedded in Everyday Life From healthcare to transportation, AI is rapidly moving from the lab to daily life",
+      ". The once-formidable Turing Test is no longer considered an ambitious goal, having been surpassed by today's sophisticated systems. Meanwhile, AI adoption has accelerated at an unprecedented rate, as millions of people are now using AI on a regular basis both for their professional work and leisure activities. After a brief slowdown, corporate investment in AI rebounded",
+      ". 11. AI Earns Top Honors for its Impact on Science AI's growing importance is reflected in major scientific awards: two Nobel Prizes recognized work that led to deep learning (physics) and to its application to protein folding (chemistry), while the Turing Award honored groundbreaking contributions to reinforcement learning. 12"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 0.0,
+      "contextual_precision": 0.1
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "What are the strategic implications of China closing the AI model quality gap while still trailing in quantity?",
+    "Generated Answer": "The strategic implications of China closing the AI model quality gap while still trailing in quantity are significant, particularly for the Chinese tech industry and their global market position. \n\nChina's rapid progress in closing the quality gap with respect to major benchmarks such as MMLU and HumanEval indicates that they have made substantial improvements in AI technology and its application. This achievement is a testament to China's commitment to innovation and investment in AI research and development.\n\nThe performance differences on major benchmarks, which were once double digits, are now near parity, suggesting that the gap between Chinese models and those of other countries has significantly narrowed. This accomplishment puts pressure on other nations like the United States, the European Union, and Japan, who have traditionally held a competitive edge in AI technology.\n\nChina's continued leadership in AI publications and patents further strengthens their position as a global leader in this field. This not only boosts China's tech industry but also contributes to the overall growth of the Chinese economy.\n\nThe shift towards a more global model development process is evident from notable launches from various regions, including the Middle East, Latin America, and Southeast Asia. This indicates that AI technology is becoming increasingly accessible and integrated into different parts of the world, with China playing an essential role in driving this change.\n\nHowever..\nDespite China's progress, there are still regional divides within countries like Canada, the United States, and the Netherlands regarding their attitudes towards AI products and services. In these regions, strong majorities see AI as more beneficial than harmful, indicating that local governments and policymakers may have different priorities or concerns when it comes to AI investment.\n\nThe gap between companies recognizing RAI risks and taking meaningful action versus governments increasing urgency in addressing AI governance issues highlights the importance of trust and transparency in managing AI systems. As AI technology continues to advance, maintaining a high level of trust among stakeholders is crucial for successful implementation and adoption.\n\nIn conclusion, China's closing the AI model quality gap while trailing in quantity has significant strategic implications for their tech industry and global market position. This achievement positions them as a leading force in AI research and development, contributing to the growth of the Chinese economy and driving innovation across different regions of the world. However, it also underscores the importance of addressing regional divides and maintaining trust among stakeholders when managing AI systems.",
+    "Expected Answer": "The qualitative AI competition is becoming far more competitive, with China narrowing benchmark gaps from double digits to near zero in a single year.",
+    "Retrieved Context": [
+      ". 6. Global AI Optimism is Rising \u0014 But Deep Regional Divides Remain In countries like China (83%), Indonesia (80%), and Thailand (77%), strong majorities see AI products and services as more beneficial than harmful. In contrast, optimism remains far lower in places like Canada (40%), the United States (39%), and the Netherlands (36%)",
+      ". While the U.S. maintains its lead in quantity, Chinese models have rapidly closed the quality gap: performance differences on major benchmarks such as MMLU and HumanEval shrank from double digits in 2023 to near parity in 2024. China continues to lead in AI publications and patents. Model development is increasingly global, with notable launches from the Middle East, Latin America, and Southeast Asia. 5",
+      ". Among companies, a gap persists between recognizing RAI risks and taking meaningful action. In contrast, governments are showing increased urgency: in 2024, global cooperation on AI governance intensified, with organizations including the OECD, EU, U.N., and African Union releasing frameworks focused on transparency, trustworthiness, and other core responsible AI principles. 6",
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it",
+      ". Policymakers are no longer just debating AI \u0014 they're investing in it. Several countries launched billion-dollar national AI infrastructure initiatives, including major efforts to expand energy capacity to support AI development. Global coordination is increasing, even as local initiatives take shape. Yet trust remains a major challenge. Fewer people believe AI companies will safeguard their data, and concerns about fairness and bias persist",
+      ". Misinformation continues to pose risks, particularly in elections and the proliferation of deepfakes. In response, governments are advancing new regulatory frameworks aimed at promoting transparency, accountability, and fairness. Top Takeaways 1. AI Performance on Demanding Benchmarks Continues to Improve In 2023, researchers introduced new benchmarks \u0014 MMMU, GPQA, and SWE-bench \u0014 to test the limits of advanced AI systems"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.9,
+      "faithfulness": 0.8,
+      "contextual_precision": 0.7
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "How do the combined trends in inference cost reduction and hardware efficiency improvement affect AI accessibility?",
+    "Generated Answer": "The combined trends of inference cost reduction and hardware efficiency improvement significantly enhance AI accessibility by lowering the barriers to advanced AI. These trends are rapidly reducing the performance difference between open-weight models and closed models, making it easier for individuals and organizations to adopt AI systems without worrying about high costs or limited computing resources.\n\nWith reduced inference costs, more people can afford to use AI-powered solutions for various applications, such..\n- Healthcare: AI can help diagnose diseases, monitor vital signs, and provide personalized treatment plans.\n- Education: AI can assist in creating adaptive learning environments, providing instant feedback on student performance.\n- Marketing: AI can analyze customer data and provide insights into market trends, helping businesses make informed decisions.\n\nHardware efficiency improvements are also contributing to increased accessibility. As open-weight models close the gap with closed models, reducing the performance difference from 8% to just 1.7% in a single year, more people can access these advanced AI systems without worrying about high hardware costs or limited computing resources.\n\nMoreover, as governments and policymakers invest in AI infrastructure, the cost of hardware decreases, making it more accessible for individuals and organizations. This not only benefits businesses but also contributes to the democratization of AI by enabling a wider range of users to benefit from its capabilities.\n\nIn conclusion, the combined trends of inference cost reduction and hardware efficiency improvement significantly enhance AI accessibility by lowering costs, improving performance, and increasing the availability of AI systems for various applications and industries.",
+    "Expected Answer": "They rapidly lower barriers to advanced AI, making it accessible to a much wider range of users and organisations who could not previously afford to deploy such systems.",
+    "Retrieved Context": [
+      ". Just a year later, performance sharply increased: scores rose by 18.8, 48.9, and 67.3 percentage points on MMMU, GPQA, and SWE-bench, respectively. Beyond benchmarks, AI systems made major strides in generating high-quality video, and in some settings, language model agents even outperformed humans in programming tasks with limited time budgets. 2. AI is Increasingly Embedded in Everyday Life From healthcare to transportation, AI is rapidly moving from the lab to daily life",
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it",
+      ". At the hardware level, costs have declined by 30% annually, while energy efficiency has improved by 40% each year. Open-weight models are closing the gap with closed models, reducing the performance difference from 8% to just 1.7% on some benchmarks in a single year. Together, these trends are rapidly lowering the barriers to advanced AI. 8. Governments are Stepping Up on AI \u0014 With Regulation and Investment In 2024, U.S",
+      ". In the U.S., 81% of K-12 CS teachers say AI should be part of foundational CS education, but less than half feel equipped to teach it. 10. Industry is Racing Ahead in AI \u0014 But the Frontier is Tightening Nearly 90% of notable AI models in 2024 came from industry, up from 60% in 2023, while academia remains the top source of highly cited research. Model scale continues to grow rapidly \u0014 training compute doubles every five months, datasets every eight, and power use annually",
+      ". Policymakers are no longer just debating AI \u0014 they're investing in it. Several countries launched billion-dollar national AI infrastructure initiatives, including major efforts to expand energy capacity to support AI development. Global coordination is increasing, even as local initiatives take shape. Yet trust remains a major challenge. Fewer people believe AI companies will safeguard their data, and concerns about fairness and bias persist",
+      ". The once-formidable Turing Test is no longer considered an ambitious goal, having been surpassed by today's sophisticated systems. Meanwhile, AI adoption has accelerated at an unprecedented rate, as millions of people are now using AI on a regular basis both for their professional work and leisure activities. After a brief slowdown, corporate investment in AI rebounded",
+      ". Among companies, a gap persists between recognizing RAI risks and taking meaningful action. In contrast, governments are showing increased urgency: in 2024, global cooperation on AI governance intensified, with organizations including the OECD, EU, U.N., and African Union releasing frameworks focused on transparency, trustworthiness, and other core responsible AI principles. 6"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.9,
+      "faithfulness": 0.8,
+      "contextual_precision": 0.95
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "What does the doubling of U.S. AI regulations in a single year signal about the government's posture toward AI governance?",
+    "Generated Answer": "The doubling of U.S. AI regulations in a single year signals that the government's posture toward AI governance is increasing urgency and commitment to responsible AI practices. This move towards global cooperation on AI governance, as evidenced by frameworks released by organizations such..\n...\n(Continuation of context omitted for brevity)",
+    "Expected Answer": "It signals a major shift from observation to active intervention, with regulators moving urgently to establish frameworks for transparency, accountability, and fairness.",
+    "Retrieved Context": [
+      ". Among companies, a gap persists between recognizing RAI risks and taking meaningful action. In contrast, governments are showing increased urgency: in 2024, global cooperation on AI governance intensified, with organizations including the OECD, EU, U.N., and African Union releasing frameworks focused on transparency, trustworthiness, and other core responsible AI principles. 6",
+      ". Policymakers are no longer just debating AI \u0014 they're investing in it. Several countries launched billion-dollar national AI infrastructure initiatives, including major efforts to expand energy capacity to support AI development. Global coordination is increasing, even as local initiatives take shape. Yet trust remains a major challenge. Fewer people believe AI companies will safeguard their data, and concerns about fairness and bias persist",
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it",
+      ". Misinformation continues to pose risks, particularly in elections and the proliferation of deepfakes. In response, governments are advancing new regulatory frameworks aimed at promoting transparency, accountability, and fairness. Top Takeaways 1. AI Performance on Demanding Benchmarks Continues to Improve In 2023, researchers introduced new benchmarks \u0014 MMMU, GPQA, and SWE-bench \u0014 to test the limits of advanced AI systems",
+      ". We also introduce fresh data on corporate adoption of responsible AI practices, along with expanded coverage of AI's growing role in science and medicine. Since its founding in 2017 as an offshoot of the One Hundred Year Study of Artificial Intelligence, the AI Index has been committed to equipping policymakers, journalists, executives, researchers, and the public with accurate, rigorously validated, and globally sourced data"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.8,
+      "faithfulness": 0.9,
+      "contextual_precision": 0.7
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "What do the massive national AI investment pledges across multiple countries reveal about the geopolitical dimension of AI development?",
+    "Generated Answer": "The massive national AI investment pledges across multiple countries reveal a significant geopolitical dimension of AI development. These initiatives not only demonstrate the growing interest and commitment from policymakers to invest in AI but also highlight the increasing global coordination and cooperation among nations.\n\nThese investments aim to expand energy capacity to support AI development, indicating that AI is becoming an integral part of national energy strategies. This shift towards incorporating AI into various sectors, such..\nAs a result, these national AI investment pledges not only reflect the growing interest in AI but also serve as a means for countries to collaborate and share knowledge on AI-related issues.\n\nMoreover, the concerns about data privacy and fairness persist, indicating that there is still a need for trust-building among nations when it comes to sharing sensitive information through AI systems. This highlights the ongoing challenges in establishing global standards and best practices for responsible AI development.\n\nIn summary, these national AI investment pledges across multiple countries reveal a complex web of geopolitical dynamics surrounding AI development. As policymakers continue to invest in AI, they must also address concerns about data privacy, fairness, and trust-building among nations to ensure that AI benefits the entire community.",
+    "Expected Answer": "They reveal that AI has become a strategic national priority, with governments treating AI infrastructure investment as essential for economic competitiveness and national security.",
+    "Retrieved Context": [
+      ". Policymakers are no longer just debating AI \u0014 they're investing in it. Several countries launched billion-dollar national AI infrastructure initiatives, including major efforts to expand energy capacity to support AI development. Global coordination is increasing, even as local initiatives take shape. Yet trust remains a major challenge. Fewer people believe AI companies will safeguard their data, and concerns about fairness and bias persist",
+      ". 6. Global AI Optimism is Rising \u0014 But Deep Regional Divides Remain In countries like China (83%), Indonesia (80%), and Thailand (77%), strong majorities see AI products and services as more beneficial than harmful. In contrast, optimism remains far lower in places like Canada (40%), the United States (39%), and the Netherlands (36%)",
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it",
+      ". Misinformation continues to pose risks, particularly in elections and the proliferation of deepfakes. In response, governments are advancing new regulatory frameworks aimed at promoting transparency, accountability, and fairness. Top Takeaways 1. AI Performance on Demanding Benchmarks Continues to Improve In 2023, researchers introduced new benchmarks \u0014 MMMU, GPQA, and SWE-bench \u0014 to test the limits of advanced AI systems",
+      ". We also introduce fresh data on corporate adoption of responsible AI practices, along with expanded coverage of AI's growing role in science and medicine. Since its founding in 2017 as an offshoot of the One Hundred Year Study of Artificial Intelligence, the AI Index has been committed to equipping policymakers, journalists, executives, researchers, and the public with accurate, rigorously validated, and globally sourced data"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.4,
+      "faithfulness": 0.2,
+      "contextual_precision": 0.1
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "What is the key tension revealed by the gap between 81% believing AI belongs in CS education and less than half feeling equipped to teach it?",
+    "Generated Answer": "The key tension revealed by the gap between 10% believing that AI belongs in CS education and less than half feeling equipped to teach it is the lack of preparedness and awareness among educators regarding AI. This significant disconnect highlights a potential knowledge gap within the education system, particularly in computer science (CS) courses. As a result..\nThe students may not be adequately prepared to teach or learn about AI due to insufficient training and resources. This could lead to a generation of graduates who are ill-equipped to navigate the rapidly evolving field of AI and its applications.\n\nMoreover, this gap raises concerns about the quality of education in CS and the future workforce's ability to effectively utilize AI technologies. Addressing these issues requires not only increased investment in education but also efforts to bridge the knowledge gap between educators and students regarding AI concepts and applications.",
+    "Expected Answer": "It reveals a critical teacher readiness gap: strong consensus on importance exists, but insufficient training prevents effective implementation.",
+    "Retrieved Context": [
+      ". 11. AI Earns Top Honors for its Impact on Science AI's growing importance is reflected in major scientific awards: two Nobel Prizes recognized work that led to deep learning (physics) and to its application to protein folding (chemistry), while the Turing Award honored groundbreaking contributions to reinforcement learning. 12",
+      ". Misinformation continues to pose risks, particularly in elections and the proliferation of deepfakes. In response, governments are advancing new regulatory frameworks aimed at promoting transparency, accountability, and fairness. Top Takeaways 1. AI Performance on Demanding Benchmarks Continues to Improve In 2023, researchers introduced new benchmarks \u0014 MMMU, GPQA, and SWE-bench \u0014 to test the limits of advanced AI systems",
+      ". Policymakers are no longer just debating AI \u0014 they're investing in it. Several countries launched billion-dollar national AI infrastructure initiatives, including major efforts to expand energy capacity to support AI development. Global coordination is increasing, even as local initiatives take shape. Yet trust remains a major challenge. Fewer people believe AI companies will safeguard their data, and concerns about fairness and bias persist",
+      ". We also introduce fresh data on corporate adoption of responsible AI practices, along with expanded coverage of AI's growing role in science and medicine. Since its founding in 2017 as an offshoot of the One Hundred Year Study of Artificial Intelligence, the AI Index has been committed to equipping policymakers, journalists, executives, researchers, and the public with accurate, rigorously validated, and globally sourced data",
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it",
+      ". The once-formidable Turing Test is no longer considered an ambitious goal, having been surpassed by today's sophisticated systems. Meanwhile, AI adoption has accelerated at an unprecedented rate, as millions of people are now using AI on a regular basis both for their professional work and leisure activities. After a brief slowdown, corporate investment in AI rebounded",
+      ". Just a year later, performance sharply increased: scores rose by 18.8, 48.9, and 67.3 percentage points on MMMU, GPQA, and SWE-bench, respectively. Beyond benchmarks, AI systems made major strides in generating high-quality video, and in some settings, language model agents even outperformed humans in programming tasks with limited time budgets. 2. AI is Increasingly Embedded in Everyday Life From healthcare to transportation, AI is rapidly moving from the lab to daily life",
+      ". Yet performance gaps are shrinking: the Elo skill score difference between the top and 10th-ranked models fell from 11.9% to 5.4% in a year, and the top two are now separated by just 0.7%. 11",
+      ". Among companies, a gap persists between recognizing RAI risks and taking meaningful action. In contrast, governments are showing increased urgency: in 2024, global cooperation on AI governance intensified, with organizations including the OECD, EU, U.N., and African Union releasing frameworks focused on transparency, trustworthiness, and other core responsible AI principles. 6",
+      ". 12. Complex Reasoning Remains a Challenge AI models excel at tasks like International Mathematical Olympiad problems but still struggle with complex reasoning benchmarks like PlanBench. They often fail to reliably solve logic tasks even when provably correct solutions exist, limiting their effectiveness in high-stakes settings where precision is critical.",
+      ". Our mission has always been to help these stakeholders make better-informed decisions about the development and deployment of AI. In a world where AI is discussed everywhere \u0014 from boardrooms to kitchen tables \u0014 this mission has never been more essential. What a year 2024 has been for AI. The recognition of AI's role in advancing humanity's knowledge is reflected in Nobel prizes in physics and chemistry, and the Turing award for foundational work in reinforcement learning",
+      ". In the U.S., 81% of K-12 CS teachers say AI should be part of foundational CS education, but less than half feel equipped to teach it. 10. Industry is Racing Ahead in AI \u0014 But the Frontier is Tightening Nearly 90% of notable AI models in 2024 came from industry, up from 60% in 2023, while academia remains the top source of highly cited research. Model scale continues to grow rapidly \u0014 training compute doubles every five months, datasets every eight, and power use annually"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.2,
+      "faithfulness": 0.3,
+      "contextual_precision": 0.1
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "What does the increase from 6 to 223 FDA-approved AI medical devices between 2015 and 2023 indicate about AI's role in healthcare?",
+    "Generated Answer": "The increase from 6 to FDA-approved AI medical devices indicates a significant growth in AI's role in healthcare. This suggests that the number of AI medical devices available for use has increased, indicating improved technology and advancements in AI applications. The FDA approval process is a crucial step in validating an AI-based medical device as safe and effective for patients. As the number of FDA-approved AI medical devices increases, it demonstrates that AI is becoming an integral part of healthcare solutions, addressing various challenges such..\nAs per the given context, the increase from 6 to FDA-approved AI medical devices between 2015 (in the report \"AI in 2015\") and 2018 (in the report \"AI in 2018\") indicates a substantial growth in AI's role in healthcare. This suggests that the number of AI medical devices available for use has increased, indicating improved technology and advancements in AI applications.\n\nThe FDA approval process is a crucial step in validating an AI-based medical device as safe and effective for patients. As the number of FDA-approved AI medical devices increases, it demonstrates that AI is becoming an integral part of healthcare solutions, addressing various challenges such as precision medicine, disease diagnosis, and personalized treatment plans. The data also suggests that AI is being integrated into various aspects of healthcare, from early diagnostic tools to advanced treatments.\n\nIn summary, the increase in FDA-approved AI medical devices between 2015 and 2018 indicates a significant growth in AI's role in healthcare. This growth demonstrates the potential of AI in improving patient outcomes by providing more accurate diagnoses, personalized treatment plans, and innovative solutions for various health challenges.",
+    "Expected Answer": "It indicates a dramatic acceleration of AI integration into clinical medicine, with AI-enabled devices moving from experimental curiosities to standard-of-care tools in under a decade.",
+    "Retrieved Context": [
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it",
+      ". Misinformation continues to pose risks, particularly in elections and the proliferation of deepfakes. In response, governments are advancing new regulatory frameworks aimed at promoting transparency, accountability, and fairness. Top Takeaways 1. AI Performance on Demanding Benchmarks Continues to Improve In 2023, researchers introduced new benchmarks \u0014 MMMU, GPQA, and SWE-bench \u0014 to test the limits of advanced AI systems",
+      ". 5. The Responsible AI Ecosystem Evolves \u0014 Unevenly AI-related incidents are rising sharply, yet standardized responsible AI (RAI) evaluations remain rare among major industrial model developers. However, new benchmarks like HELM Safety, AIR-Bench, and FACTS offer promising tools for assessing factuality and safety. Among companies, a gap persists between recognizing RAI risks and taking meaningful action",
+      ". Policymakers are no longer just debating AI \u0014 they're investing in it. Several countries launched billion-dollar national AI infrastructure initiatives, including major efforts to expand energy capacity to support AI development. Global coordination is increasing, even as local initiatives take shape. Yet trust remains a major challenge. Fewer people believe AI companies will safeguard their data, and concerns about fairness and bias persist",
+      ". Among companies, a gap persists between recognizing RAI risks and taking meaningful action. In contrast, governments are showing increased urgency: in 2024, global cooperation on AI governance intensified, with organizations including the OECD, EU, U.N., and African Union releasing frameworks focused on transparency, trustworthiness, and other core responsible AI principles. 6",
+      ". At the hardware level, costs have declined by 30% annually, while energy efficiency has improved by 40% each year. Open-weight models are closing the gap with closed models, reducing the performance difference from 8% to just 1.7% on some benchmarks in a single year. Together, these trends are rapidly lowering the barriers to advanced AI. 8. Governments are Stepping Up on AI \u0014 With Regulation and Investment In 2024, U.S",
+      ". The once-formidable Turing Test is no longer considered an ambitious goal, having been surpassed by today's sophisticated systems. Meanwhile, AI adoption has accelerated at an unprecedented rate, as millions of people are now using AI on a regular basis both for their professional work and leisure activities. After a brief slowdown, corporate investment in AI rebounded",
+      ". We also introduce fresh data on corporate adoption of responsible AI practices, along with expanded coverage of AI's growing role in science and medicine. Since its founding in 2017 as an offshoot of the One Hundred Year Study of Artificial Intelligence, the AI Index has been committed to equipping policymakers, journalists, executives, researchers, and the public with accurate, rigorously validated, and globally sourced data"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.4,
+      "faithfulness": 0.3,
+      "contextual_precision": 0.2
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  },
+  {
+    "Question": "What are the competitive implications of the frontier model performance gap narrowing from 11.9% to 5.4% in one year?",
+    "Generated Answer": "The competitive implications of the frontier model performance gap narrowing from 8.9% to 5.4% in one year are significant. This improvement in AI system performance has reduced the performance difference between open- and closed-weight models, allowing these systems to compete more effectively with traditional machine learning approaches.\n\nAs a result, companies that adopt advanced AI technologies, such..\n...\nTo access this content you need to provide your email address below.\nEmail Address:\n\nPlease follow the instructions to confirm your subscription.",
+    "Expected Answer": "It means the AI frontier is becoming increasingly crowded with near-equivalent performers, reducing the sustainable competitive advantage of any single top model.",
+    "Retrieved Context": [
+      ". At the hardware level, costs have declined by 30% annually, while energy efficiency has improved by 40% each year. Open-weight models are closing the gap with closed models, reducing the performance difference from 8% to just 1.7% on some benchmarks in a single year. Together, these trends are rapidly lowering the barriers to advanced AI. 8. Governments are Stepping Up on AI \u0014 With Regulation and Investment In 2024, U.S",
+      ". Yet performance gaps are shrinking: the Elo skill score difference between the top and 10th-ranked models fell from 11.9% to 5.4% in a year, and the top two are now separated by just 0.7%. 11",
+      ". While the U.S. maintains its lead in quantity, Chinese models have rapidly closed the quality gap: performance differences on major benchmarks such as MMLU and HumanEval shrank from double digits in 2023 to near parity in 2024. China continues to lead in AI publications and patents. Model development is increasingly global, with notable launches from the Middle East, Latin America, and Southeast Asia. 5",
+      ". Just a year later, performance sharply increased: scores rose by 18.8, 48.9, and 67.3 percentage points on MMMU, GPQA, and SWE-bench, respectively. Beyond benchmarks, AI systems made major strides in generating high-quality video, and in some settings, language model agents even outperformed humans in programming tasks with limited time budgets. 2. AI is Increasingly Embedded in Everyday Life From healthcare to transportation, AI is rapidly moving from the lab to daily life",
+      ". After a brief slowdown, corporate investment in AI rebounded. The number of newly funded generative AI startups nearly tripled, and after years of sluggish uptake, business adoption accelerated significantly in 2024. AI has moved from the margins to become a central driver of business value. Governments, too, are ramping up their involvement. Policymakers are no longer just debating AI \u0014 they're investing in it",
+      ". 12. Complex Reasoning Remains a Challenge AI models excel at tasks like International Mathematical Olympiad problems but still struggle with complex reasoning benchmarks like PlanBench. They often fail to reliably solve logic tasks even when provably correct solutions exist, limiting their effectiveness in high-stakes settings where precision is critical.",
+      ". 11. AI Earns Top Honors for its Impact on Science AI's growing importance is reflected in major scientific awards: two Nobel Prizes recognized work that led to deep learning (physics) and to its application to protein folding (chemistry), while the Turing Award honored groundbreaking contributions to reinforcement learning. 12",
+      ". Misinformation continues to pose risks, particularly in elections and the proliferation of deepfakes. In response, governments are advancing new regulatory frameworks aimed at promoting transparency, accountability, and fairness. Top Takeaways 1. AI Performance on Demanding Benchmarks Continues to Improve In 2023, researchers introduced new benchmarks \u0014 MMMU, GPQA, and SWE-bench \u0014 to test the limits of advanced AI systems",
+      ". Among companies, a gap persists between recognizing RAI risks and taking meaningful action. In contrast, governments are showing increased urgency: in 2024, global cooperation on AI governance intensified, with organizations including the OECD, EU, U.N., and African Union releasing frameworks focused on transparency, trustworthiness, and other core responsible AI principles. 6",
+      ". 5. The Responsible AI Ecosystem Evolves \u0014 Unevenly AI-related incidents are rising sharply, yet standardized responsible AI (RAI) evaluations remain rare among major industrial model developers. However, new benchmarks like HELM Safety, AIR-Bench, and FACTS offer promising tools for assessing factuality and safety. Among companies, a gap persists between recognizing RAI risks and taking meaningful action"
+    ],
+    "Evaluation scores": {
+      "answer_relevancy": 0.4,
+      "faithfulness": 0.2,
+      "contextual_precision": 0.1
+    },
+    "Evaluation framework used": "ragas-llamaindex",
+    "<small_llm> name": "stablelm2:1.6b",
+    "<embedding_model> name": "unclemusclez/jina-embeddings-v2-base-code:latest"
+  }
+]

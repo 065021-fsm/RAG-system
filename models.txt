@@ -1,0 +1,100 @@
+# ============================================================
+# models.txt — Model Configuration Reference
+# Agentic RAG System — Sample Instance 1
+# ============================================================
+# This file is parameterized for multi-instance runs.
+# Each instance may define a different LLM + Embedding Model
+# combination. The RAG system reads this file at runtime.
+# ============================================================
+
+
+# ------------------------------------------------------------
+# SUBSYSTEM 1 — Small Language Model (LLM)
+# ------------------------------------------------------------
+
+LLM_NAME=stablelm2:1.6b
+LLM_PROVIDER=ollama
+LLM_SIZE=983MB
+LLM_CONTEXT_WINDOW=4K
+LLM_PULL_COMMAND=ollama run stablelm2:1.6b
+
+# Notes:
+# - Quantized variant of stablelm2:1.6b (Q2_K quantization)
+# - Fits within the <1GB model size constraint
+# - Optimized for instruction-following and agentic retrieval tasks
+# - Supports tool calling natively
+
+
+# ------------------------------------------------------------
+# SUBSYSTEM 1 — Embedding Model
+# ------------------------------------------------------------
+
+EMBEDDING_MODEL_NAME=unclemusclez/jina-embeddings-v2-base-code:q3_k_m
+EMBEDDING_MODEL_PROVIDER=ollama
+EMBEDDING_MODEL_SIZE=96MB
+EMBEDDING_MODEL_CONTEXT_WINDOW=8K
+EMBEDDING_MODEL_PULL_COMMAND=unclemusclez/jina-embeddings-v2-base-code:q3_k_m
+
+# Notes:
+# - Extremely lightweight embedding model (96MB)
+# - Based on unclemusclez/jina-embeddings-v2-base-code:q3_k_m (HuggingFace)
+# - Text input only
+# - Suitable for semantic similarity and vector retrieval tasks
+
+
+# ------------------------------------------------------------
+# SUBSYSTEM 2 — Judge LLM (Fixed across all instances)
+# ------------------------------------------------------------
+
+JUDGE_LLM=llama3.2:3b
+JUDGE_LLM_PROVIDER=ollama
+
+# Notes:
+# - Judge LLM is already downloded in the docker
+
+
+# ------------------------------------------------------------
+# EVALUATION FRAMEWORK
+# ------------------------------------------------------------
+
+# Uncomment exactly ONE framework per instance run:
+
+# EVALUATION_FRAMEWORK=deepeval-llamaindex
+# EVALUATION_FRAMEWORK=geval-llamaindex
+# EVALUATION_FRAMEWORK=prometheus
+EVALUATION_FRAMEWORK=ragas-llamaindex
+
+# Notes:
+# - deepeval-llamaindex  : DeepEval via LlamaIndex integration
+# - geval-llamaindex     : G-Eval via LlamaIndex integration
+# - prometheus           : Prometheus evaluation framework
+# - ragas-llamaindex     : RAGAs via LlamaIndex (default for this instance)
+
+
+# ------------------------------------------------------------
+# DATABASE CONFIGURATION
+# ------------------------------------------------------------
+
+DB_HOST=192.240.1.177
+DB_NAME=bhavya_manya
+DB_ROLE=bhavya_manya
+DB_USER=bhavya_manya
+DB_VECTOR_EXTENSION=pgvector
+
+# ------------------------------------------------------------
+# FILE PATHS
+# ------------------------------------------------------------
+
+DATASET_PATH=/home/ashok/ragsystem/dataset1.txt
+QUESTIONS_PATH=/home/ashok/ragsystem/Questions.txt
+ANSWERS_PATH=/home/ashok/ragsystem/Answers.txt
+
+# ------------------------------------------------------------
+# OUTPUT
+# ------------------------------------------------------------
+
+OUTPUT_FILE=output_rag.json
+
+# ============================================================
+# END OF CONFIGURATION
+# ============================================================

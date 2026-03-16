@@ -1,0 +1,31 @@
+1. What three new benchmarks were introduced in 2023 to test advanced AI systems?
+2. How did U.S. private AI investment in 2024 compare to China's?
+3. According to the report, what effect does AI have on the workforce besides boosting productivity?
+4. How did the performance gap between U.S. and Chinese AI models change from 2023 to 2024?
+5. At what annual rate have AI hardware costs declined according to the report?
+6. By what factor did global legislative mentions of AI increase between 2016 and the period covered in the report?
+7. Which country launched a $47.5 billion semiconductor fund to support AI development?
+8. What percentage of U.S. K-12 CS teachers say AI should be part of foundational CS education?
+9. How many AI-enabled medical devices did the FDA approve in 2015 compared to 2023?
+10.How did the performance gap between the top two AI models on Chatbot Arena change from 2023 to 2024?
+11. By how many percentage points did AI scores improve on GPQA between 2023 and 2024?
+12. How much did U.S. private AI investment reach in 2024?
+13. What percentage of organizations reported using AI in 2024, and what was the figure the prior year?
+14. How many notable AI models did the U.S., China, and Europe produce in 2024?
+15. By how much did the inference cost for a GPT-3.5 level system drop between November 2022 and October 2024?
+16. How many AI-related regulations did U.S. federal agencies introduce in 2024?
+17. How large is France's national AI infrastructure commitment?
+18. What fraction of countries now offer or plan to offer K-12 CS education?
+19. How many AI-enabled medical devices did the FDA approve in 2023?
+20. What was the Elo score gap between the top and 10th-ranked model on Chatbot Arena by early 2025?
+21.What does the rapid benchmark improvement in one year suggest about the pace of AI capability development?
+22. What does the 18.7% increase in global generative AI investment from 2023 to 2024 indicate about investor confidence?
+23. What does the jump from 55% to 78% AI adoption in one year reveal about enterprise AI strategy?
+24. What are the strategic implications of China closing the AI model quality gap while still trailing in quantity?
+25. How do the combined trends in inference cost reduction and hardware efficiency improvement affect AI accessibility?
+26. What does the doubling of U.S. AI regulations in a single year signal about the government's posture toward AI governance?
+27. What do the massive national AI investment pledges across multiple countries reveal about the geopolitical dimension of AI development?
+28. What is the key tension revealed by the gap between 81% believing AI belongs in CS education and less than half feeling equipped to teach it?
+29. What does the increase from 6 to 223 FDA-approved AI medical devices between 2015 and 2023 indicate about AI's role in healthcare?
+30. What are the competitive implications of the frontier model performance gap narrowing from 11.9% to 5.4% in one year?
+

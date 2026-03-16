@@ -1,0 +1,32 @@
+1. MMMU, GPQA, and SWE-bench.
+2. U.S. investment of $109.1 billion was nearly 12 times China's $9.3 billion.
+3. It helps narrow skill gaps across the workforce.
+4. Performance differences on benchmarks such as MMLU and HumanEval shrank from double digits in 2023 to near parity in 2024.
+5. 30% per year.
+6. A ninefold increase since 2016.
+7. China.
+8. 81%.
+9. Just six in 2015, compared to 223 in 2023.
+10. It shrank from 4.9% in 2023 to just 0.7% in 2024.
+11. 48.9 percentage points.
+12. $109.1 billion.
+13. 78% in 2024, up from 55% in 2023.
+14. U.S.: 40, China: 15, Europe: 3.
+15. Over 280-fold.
+16. 59 AI-related regulations.
+17. ¬109 billion.
+18. Two-thirds.
+19. 223
+20. 5.4%.
+21. It suggests AI capabilities are advancing at an exceptionally rapid pacescores on three major benchmarks rose by 18.8 to 67.3 percentage points in a single year.
+22. It indicates strong and growing investor confidence in generative AI, with global private investment reaching $33.9 billion in 2024.
+23. It reveals that enterprise AI adoption has moved from early exploration to mainstream deployment, with AI becoming a central driver of business value.
+24. The qualitative AI competition is becoming far more competitive, with China narrowing benchmark gaps from double digits to near zero in a single year.
+25. They rapidly lower barriers to advanced AI, making it accessible to a much wider range of users and organisations who could not previously afford to deploy such systems.
+26. It signals a major shift from observation to active intervention, with regulators moving urgently to establish frameworks for transparency, accountability, and fairness.
+27. They reveal that AI has become a strategic national priority, with governments treating AI infrastructure investment as essential for economic competitiveness and national security.
+28. It reveals a critical teacher readiness gap: strong consensus on importance exists, but insufficient training prevents effective implementation.
+29.It indicates a dramatic acceleration of AI integration into clinical medicine, with AI-enabled devices moving from experimental curiosities to standard-of-care tools in under a decade.
+30. It means the AI frontier is becoming increasingly crowded with near-equivalent performers, reducing the sustainable competitive advantage of any single top model.
+
+
