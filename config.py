@@ -31,18 +31,17 @@ class Config:
     # Evaluation
     evaluation_framework: str = "ragas-llamaindex"
 
-    # Database
-    db_host: str = "192.240.1.177"
-    db_name: str = "bhavya_manya"
-    db_role: str = "bhavya_manya"
-    db_user: str = "bhavya_manya"
-    db_password: str = "bhavya_manya"
+    db_host: str = "YOUR_DB_HOST"
+    db_name: str = "YOUR_DB_NAME"
+    db_role: str = "YOUR_DB_ROLE"
+    db_user: str = "YOUR_DB_USER"
+    db_password: str = "YOUR_DB_PASSWORD"
     db_vector_extension: str = "pgvector"
-
-    # File paths
-    dataset_path: str = "/home/ashok/ragsystem/dataset1.txt"
-    questions_path: str = "/home/ashok/ragsystem/Questions.txt"
-    answers_path: str = "/home/ashok/ragsystem/Answers.txt"
+ 
+    # File paths — replace with your actual local paths
+    dataset_path: str = "YOUR_DATASET_PATH"
+    questions_path: str = "YOUR_QUESTIONS_PATH"
+    answers_path: str = "YOUR_ANSWERS_PATH"
 
     # Output
     output_file: str = "output_rag.json"
