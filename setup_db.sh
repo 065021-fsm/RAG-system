@@ -4,10 +4,10 @@
 
 set -e
 
-DB_HOST="192.240.1.177"
-DB_NAME="bhavya_manya"
-DB_USER="bhavya_manya"
-DB_PASSWORD="bhavya_manya"
+DB_HOST="YOUR_DB_HOST"
+DB_NAME="YOUR_DB_NAME"
+DB_USER="YOUR_DB_USER"
+DB_PASSWORD="YOUR_DB_PASSWORD
 
 echo "[setup_db] Ensuring pgvector extension exists..."
 PGPASSWORD="$DB_PASSWORD" psql -h "$DB_HOST" -U "$DB_USER" -d "$DB_NAME" -c "
